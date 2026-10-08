@@ -5,6 +5,12 @@
     "id": "1385401164509745217",
     "name": "raionthego"
   },
+  "contributors": [
+    {
+      "id": "1326604090855264309",
+      "name": "slaayd"
+    }
+  ],
   "service": "SLAAYD WIDGETS",
   "description": {
     "en": "The best streaming widgets for your stream."
